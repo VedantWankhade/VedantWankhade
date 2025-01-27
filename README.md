@@ -18,8 +18,7 @@ I value knowing my tools inside out and tend to use software that allow me to do
 
 ## My Goals - One day I hope to
 - [ ] Write a window manager
-- [ ] Build my own linux distro
-<img align="right" src="./attachments/gopher-4-fliped.png" width="200" />
+- [ ] Build my own linux distro <img align="right" src="./attachments/gopher-4-fliped.png" width="200" />
 - [ ] Finish LFS
 - [ ] Write a compiler / interpreter
 - [ ] Write an LSP implementation
