@@ -15,5 +15,7 @@ I value knowing my tools inside out and tend to use software that allow me to do
 - Writing a window manager
 - Building my own linux distro
 - LFS
+- Writing a compiler / interpreter
+- Writing an LSP implementation
 
-<img align="right" src="./attachments/gopher-4.png" width="200 " height="200" />
+<img align="right" src="./attachments/gopher-4-fliped.png" width="200 " height="200" />
