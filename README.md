@@ -9,7 +9,7 @@ I currently work on backend systems at my job and specialize in the same, though
 
 Lately I have started enjoying network programming a lot thanks to Golang.
 
-I value knowing my tools inside out and tend to use software that allow me to do so. I am also a huge advocate for open-source and self hosting (ironic I know, you are reading this on GitHub, but I am working on building my own git server).
+I value knowing my tools inside out and tend to use software that allow me to do so. I am also a huge self-hosting and home labbing enthusiast.
 
 ## Contributions to some cool projects so far
 - [KDE Plasma](https://invent.kde.org/plasma/discover/-/merge_requests/373) - Fixed a [bug](https://bugs.kde.org/show_bug.cgi?id=457650) in one of the core apps in KDE Plasma desktop - Discover
