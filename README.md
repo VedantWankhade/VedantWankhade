@@ -26,6 +26,9 @@ I value knowing my tools inside out and tend to use software that allow me to do
 - [ ] Build a proper home lab and self host everything
 - [ ] ~~Visit Moon~~
 
+## My weekly commits (updated dynamically)
+![](https://ghwidgets.vedantwankha.de/?widget=commitgraph&user=vedantwankhade&v2=2)
+
 ## Get in touch
 - [LinkedIn](https://linkedin.com/in/vedant-wankhade)
 - [vedantwankhade17@gmail.com](mailto:vedantwankhade17@gmail.com)
