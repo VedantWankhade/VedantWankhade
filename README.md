@@ -16,11 +16,13 @@ I value knowing my tools inside out and tend to use software that allow me to do
 - [Tgpt](https://github.com/aandrew-me/tgpt/pull/242) - Fixed a [bug](https://github.com/aandrew-me/tgpt/issues/239) related to multiline input through piping on cli
 - [Nix / NixOS](https://github.com/NixOS/nixos-homepage/pull/1368) - Implemented a [feature](https://github.com/NixOS/nixos-homepage/issues/1115) on the official NixOS website to open specific download tab according to the users current operating system
 
-## My Goals - One day I hope to
+## Running list of things I wanna do
 - [ ] Write a window manager
+- [x] Automate dotfiles and setup for my workstation, pi and vps - [vedantwankhade/dotfiles](https://github.com/vedantwankhade/dotfiles)
 - [ ] Build my own linux distro <img align="right" src="./attachments/gopher-4-fliped.png" width="200" />
 - [ ] Finish LFS
 - [ ] Write a compiler / interpreter
+- [ ] Implement network protocols from scratch
 - [ ] Write an LSP implementation
 - [ ] Contribute to the Linux Kernel
 - [ ] Build a proper home lab and self host everything
