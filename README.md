@@ -26,7 +26,7 @@ I value knowing my tools inside out and tend to use software that allow me to do
 - [ ] Write an LSP implementation
 - [ ] Contribute to the Linux Kernel
 - [ ] Build a proper home lab and self host everything
-- [ ] ~~Visit Moon~~
+- [ ] ~~Visit the moon~~
 
 ## My weekly commits (updated dynamically)
 ![](https://ghwidgets.vedantwankha.de/?widget=commitgraph&user=vedantwankhade&v2=2)
